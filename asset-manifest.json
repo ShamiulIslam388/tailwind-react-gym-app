@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/tailwind-react-gym-app/static/css/main.52f14e96.chunk.css",
+    "main.js": "/tailwind-react-gym-app/static/js/main.10793ca6.chunk.js",
+    "main.js.map": "/tailwind-react-gym-app/static/js/main.10793ca6.chunk.js.map",
+    "runtime-main.js": "/tailwind-react-gym-app/static/js/runtime-main.74202514.js",
+    "runtime-main.js.map": "/tailwind-react-gym-app/static/js/runtime-main.74202514.js.map",
+    "static/js/2.dcd07af4.chunk.js": "/tailwind-react-gym-app/static/js/2.dcd07af4.chunk.js",
+    "static/js/2.dcd07af4.chunk.js.map": "/tailwind-react-gym-app/static/js/2.dcd07af4.chunk.js.map",
+    "index.html": "/tailwind-react-gym-app/index.html",
+    "static/css/main.52f14e96.chunk.css.map": "/tailwind-react-gym-app/static/css/main.52f14e96.chunk.css.map",
+    "static/js/2.dcd07af4.chunk.js.LICENSE.txt": "/tailwind-react-gym-app/static/js/2.dcd07af4.chunk.js.LICENSE.txt",
+    "static/media/banner-1.4f5c9ddc.jpg": "/tailwind-react-gym-app/static/media/banner-1.4f5c9ddc.jpg",
+    "static/media/banner.78009075.jpg": "/tailwind-react-gym-app/static/media/banner.78009075.jpg",
+    "static/media/img-1.49671eaf.jpg": "/tailwind-react-gym-app/static/media/img-1.49671eaf.jpg",
+    "static/media/img-10.ec518bf6.jpg": "/tailwind-react-gym-app/static/media/img-10.ec518bf6.jpg",
+    "static/media/img-11.2e85e0cd.jpg": "/tailwind-react-gym-app/static/media/img-11.2e85e0cd.jpg",
+    "static/media/img-12.23465ec4.jpg": "/tailwind-react-gym-app/static/media/img-12.23465ec4.jpg",
+    "static/media/img-13.b392441e.jpg": "/tailwind-react-gym-app/static/media/img-13.b392441e.jpg",
+    "static/media/img-14.5e27acb0.jpg": "/tailwind-react-gym-app/static/media/img-14.5e27acb0.jpg",
+    "static/media/img-16.d899e092.jpg": "/tailwind-react-gym-app/static/media/img-16.d899e092.jpg",
+    "static/media/img-2.433961f3.jpg": "/tailwind-react-gym-app/static/media/img-2.433961f3.jpg",
+    "static/media/img-3.2e85e0cd.jpg": "/tailwind-react-gym-app/static/media/img-3.2e85e0cd.jpg",
+    "static/media/img-4.e498b788.jpg": "/tailwind-react-gym-app/static/media/img-4.e498b788.jpg",
+    "static/media/img-5.0ffd2355.jpg": "/tailwind-react-gym-app/static/media/img-5.0ffd2355.jpg",
+    "static/media/img-6.90f64aa7.jpg": "/tailwind-react-gym-app/static/media/img-6.90f64aa7.jpg",
+    "static/media/img-7.eccbf05f.jpg": "/tailwind-react-gym-app/static/media/img-7.eccbf05f.jpg",
+    "static/media/img-8.be82c2e8.jpg": "/tailwind-react-gym-app/static/media/img-8.be82c2e8.jpg",
+    "static/media/img-9.03a7cf52.jpg": "/tailwind-react-gym-app/static/media/img-9.03a7cf52.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74202514.js",
+    "static/js/2.dcd07af4.chunk.js",
+    "static/css/main.52f14e96.chunk.css",
+    "static/js/main.10793ca6.chunk.js"
+  ]
+}
