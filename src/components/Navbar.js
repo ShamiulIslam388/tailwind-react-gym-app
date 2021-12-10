@@ -9,7 +9,7 @@ import SlideNavigation from "../utilities/SlideNavigation";
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <header className="shadow-sm sticky top-0 w-full bg-white">
+    <header className="shadow-sm sticky top-0 z-50 w-full bg-white">
       <div className="container py-6 flex items-center justify-between">
         <div className="flex items-center font-bold cursor-pointer">
           <BiRun className="text-lg mr-1 font-bold" />

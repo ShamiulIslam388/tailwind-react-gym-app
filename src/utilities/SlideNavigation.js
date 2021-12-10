@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const SlideNavigation = ({ isOpen, setIsOpen }) => {
   return (
     <nav
-      className={`md:hidden bg-white flex flex-1 flex-col justify-end items-center py-6 absolute top-18
+      className={`md:hidden bg-white flex flex-1 flex-col justify-end items-center py-6 absolute z-50 top-18
       border-b border-t-2 transition-all duration-3000 ${
         !isOpen
           ? "transition-all duration-3000 right-full"

@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import ManagementCard from "../utilities/ManagementCard";
 import { aboutpageData } from "../Data.js";
-const HomeContent = () => {
+const LoginContent = () => {
   const navigate = useNavigate();
   return (
     <div className="container md:py-12 flex flex-col py-8 md:flex-row items-start justify-between gap-10 md:gap-20">
@@ -54,4 +54,4 @@ const HomeContent = () => {
   );
 };
 
-export default HomeContent;
+export default LoginContent;
